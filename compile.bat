@@ -1,0 +1,1 @@
+pyinstaller -F -w -n AudioBookify -i AudioBookify.ico --additional-hooks-dir C:\Users\arham\Documents\Code\Python\Projects\Audiobookify\Hook AudioBookify.py
